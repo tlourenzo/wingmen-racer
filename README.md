@@ -1,4 +1,6 @@
-# wingmen-racer
+# Di Marios
+by WingMen
+
 3d game done with LibGDX for 6# 24 hour <A/C_> HACKATHON 
 Completed working version  
 
