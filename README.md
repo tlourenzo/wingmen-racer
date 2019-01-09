@@ -10,5 +10,6 @@ Team members:
 - Rui Furtado
 - Tome Lourenco
 
-In 24h hours we’ve learned LibGDX, Modelling in 3D using Blendr, Working with Perspectives in 5 Sprints using Mini-Scrum
+In 24h hours we’ve learned LibGDX, Modelling in 3D using Blendr, Working with Perspectives in 5 Sprints using Scrum
+With this mini game we have won the HACKATHON'S 1st price! :)
 
